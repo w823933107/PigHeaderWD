@@ -3,7 +3,6 @@ program SearchWDBaseAddr;
 uses
   Vcl.Forms,
   SearchBaseAddrForm in 'SearchBaseAddrForm.pas' {Form1},
-  UEasyHook in 'UEasyHook.pas',
   uObj in 'uObj.pas',
   uSearch in 'uSearch.pas',
   DBGame in 'DBGame.pas' {DataModule1: TDataModule},
